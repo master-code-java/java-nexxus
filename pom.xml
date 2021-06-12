@@ -22,5 +22,11 @@
   </repository>
 </distributionManagement>
 
+<scm>
+   <url>https://github.com/master-code-java/java-nexxus.git</url>
+   <connection>scm:git:git://github.com/master-code-java/java-nexxus.git</connection>
+   <developerConnection>scm:git:git@github.com:master-code-java/java-nexxus.git</developerConnection>
+</scm>
+
 
 </project>
