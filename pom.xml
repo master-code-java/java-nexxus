@@ -3,7 +3,7 @@
   <groupId>com.oiseau</groupId>
   <artifactId>java-nexus-SNAPSHOT</artifactId>
   <packaging>jar</packaging>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
   <name>java-nexus</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -26,7 +26,8 @@
    <url>https://github.com/master-code-java/java-nexxus.git</url>
    <connection>scm:git:git://github.com/master-code-java/java-nexxus.git</connection>
    <developerConnection>scm:git:git@github.com:master-code-java/java-nexxus.git</developerConnection>
-</scm>
+  <tag>teste-1.0</tag>
+  </scm>
 
 
 </project>
