@@ -23,10 +23,11 @@
 </distributionManagement>
 
 <scm>
-   <url>http://github.com/master-code-java/java-nexxus.git</url>
-   <connection>scm:git:git://github.com/master-code-java/java-nexxus.git</connection>
+   <connection>scm:git:git@github.com:master-code-java/java-nexxus.git</connection>
    <developerConnection>scm:git:git@github.com:master-code-java/java-nexxus.git</developerConnection>
-  <tag>teste-1.0</tag>
+   <url>http://github.com/master-code-java/java-nexxus.git</url>
+   
+  <tag>teste-{project.version}</tag>
   </scm>
 
 
